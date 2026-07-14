@@ -1,0 +1,6 @@
+# El repo raíz solo versiona el índice del portafolio (README.md).
+# Cada proyecto vive en su propio repositorio, por eso se ignoran aquí.
+agc-consultor-docs-ia/
+invoice-extractor/
+node_modules/
+*.log
